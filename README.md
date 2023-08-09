@@ -1,2 +1,3 @@
-# TMA_Dataset
-For tongue multi-attribute classification.
+TMA (For tongue multi-attribute classification.)
+Terms & Conditions
+How to get the Dataset
